@@ -23,3 +23,5 @@ winget install AutoHotkey.AutoHotkey
 Start-Sleep -Seconds 10
 
 Start-Process C:\scripts\clickbuttons.ahk
+
+Start-Process https://github.com/unnerving-sprinkler/SandboxAutoClicker/blob/main/README.md
